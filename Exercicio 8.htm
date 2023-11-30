@@ -35,8 +35,17 @@
              line__2="start: 0.5 0 0.7; end: 0.5 0 1.5; color: white"></a-entity>
         </a-entity>
         </a-light>
-        <a-light type="ambient" color="#eaeaea" intensity="0.3"></a-light>
-        <a-light type="spot" intensity="0.6" position="3 -0.5 0.87" light="castShadow:true"></a-light>
+        <a-light type="directional" intensity="1" position="3 5 0.87" light="castShadow:true" 
+         target="#directionaltargetY">
+            <a-entity id="directionaltargetY" position="3 -1 0.87"></a-entity>
+        </a-light>
+        <a-light type="directional" intensity="0" position="0 0 2" light="castShadow:true" 
+         target="#directionaltargetZ">
+            <a-entity id="directionaltargetZ" position="0 0 -1"></a-entity>
+        </a-light>
+        <a-light type="directional" intensity="0" position="5 0 -4" light="castShadow:true" 
+         target="#directionaltargetX">
+            <a-entity id="directionaltargetX" position="-1 0 0"></a-entity>
     </a-scene>
   </body>
 </html>
