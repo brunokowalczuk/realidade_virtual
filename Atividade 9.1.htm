@@ -43,11 +43,13 @@
     <div class="example-container">
       <div class="options-panel">
         <img id="glasses1" src="objects/glasses1.JPG">
+        <img id="glasses2" src="objects/glasses2.JPG">
       </div>
       <a-scene mindar-face embedded color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
         <a-assets>
           <a-asset-item id="headModel" src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/examples/face-tracking/assets/sparkar/headOccluder.glb"></a-asset-item>
           <a-asset-item id="glassesModel" src="objects/scene.gltf"></a-asset-item>
+          <a-asset-item id="glassesModel2" src="objects/scene_9.1.gltf"></a-asset-item>
         </a-assets>
         <a-camera position="0 0 0" active="false"  look-controls-enabled="false" rotation-reader 
           arjs-look-controls="smoothingFactor: 0.05"></a-camera>
@@ -58,6 +60,10 @@
         <a-entity mindar-face-target="anchorIndex: 168">
             <a-gltf-model rotation="0 -0 0" position="0 0 0" 
               scale="0.01 0.01 0.01" src="#glassesModel" class="glasses1-entity" visible="false"></a-gltf-model>
+        </a-entity>
+        <a-entity mindar-face-target="anchorIndex: 168">
+            <a-gltf-model rotation="0 -0 0" position="0 0 0" 
+              scale="0.01 0.01 0.01" src="#glassesModel" class="glasses2-entity" visible="false"></a-gltf-model>
         </a-entity>
       </a-scene>
     </div>
