@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bob The Tomato (90's) (Updated)
+* source:	https://sketchfab.com/3d-models/bob-the-tomato-90s-updated-0fc181d995b84c7da78e3c2d7b0b3d00
+* author:	JYModels (https://sketchfab.com/JYModels)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bob The Tomato (90's) (Updated)" (https://sketchfab.com/3d-models/bob-the-tomato-90s-updated-0fc181d995b84c7da78e3c2d7b0b3d00) by JYModels (https://sketchfab.com/JYModels) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
