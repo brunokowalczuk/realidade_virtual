@@ -1,0 +1,263 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3600,
+      "max": [
+        0.07139500230550766,
+        0.024972999468445778,
+        0.007184999994933605
+      ],
+      "min": [
+        -0.07139500230550766,
+        0.0011869999580085278,
+        -0.03062400035560131
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43200,
+      "componentType": 5126,
+      "count": 3600,
+      "max": [
+        0.9953766465187073,
+        0.9832552075386047,
+        0.9979064464569092
+      ],
+      "min": [
+        -0.9953766465187073,
+        -0.9996028542518616,
+        -0.9846792221069336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3600,
+      "max": [
+        1.0,
+        0.9999989867210388
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 21504,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 86400,
+      "componentType": 5126,
+      "count": 16906,
+      "max": [
+        0.07855899631977081,
+        0.1969199925661087,
+        0.014959000051021576
+      ],
+      "min": [
+        -0.07855899631977081,
+        -0.003713000100106001,
+        -0.03987099975347519
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 289272,
+      "componentType": 5126,
+      "count": 16906,
+      "max": [
+        0.9999954700469971,
+        0.9997238516807556,
+        0.9994571805000305
+      ],
+      "min": [
+        -0.9999954700469971,
+        -0.9999955892562866,
+        -0.9999368190765381
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28800,
+      "componentType": 5126,
+      "count": 16906,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 86016,
+      "componentType": 5125,
+      "count": 90624,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "d.csngr (https://sketchfab.com/d.csngr)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/chrome-bat-sunglasses-e98c74c59b69457f85e3da4b90e07172",
+      "title": "Chrome Bat sunglasses"
+    },
+    "generator": "Sketchfab-15.36.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 448512,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 164048,
+      "byteOffset": 448512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 492144,
+      "byteOffset": 612560,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1104704,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "GlassShade4",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4360599263971023,
+          0.5051039601792868,
+          0.5540790912347202,
+          1.0
+        ],
+        "roughnessFactor": 0.0933305701503091
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Used_Metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4404641729196031,
+          0.4404641729196031,
+          0.4404641729196031,
+          1.0
+        ],
+        "roughnessFactor": 0.2761882702880619
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9002167582511902,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.9988827443277794e-16,
+        -0.9002167582511902,
+        0.0,
+        0.0,
+        0.9002167582511902,
+        1.9988827443277794e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "sunglass4.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

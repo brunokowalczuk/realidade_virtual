@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chrome Bat sunglasses
+* source:	https://sketchfab.com/3d-models/chrome-bat-sunglasses-e98c74c59b69457f85e3da4b90e07172
+* author:	d.csngr (https://sketchfab.com/d.csngr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chrome Bat sunglasses" (https://sketchfab.com/3d-models/chrome-bat-sunglasses-e98c74c59b69457f85e3da4b90e07172) by d.csngr (https://sketchfab.com/d.csngr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
